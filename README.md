@@ -71,6 +71,15 @@ This will launch the application in your browser at `http://localhost:8501`.
 ### 4. View Rendered HTML
 - After uploading a design and generating HTML, the interface displays both the generated HTML code and the corresponding UI rendered in the browser.
 
+
+## CodeBuddy User Interface Demo
+A glimpse into CodeBuddy’s intuitive interface, showcasing the seamless conversion of designs into functional code.
+
+
+![codebuddy3](https://github.com/user-attachments/assets/c93e70a0-a917-4cd2-a138-e43c1931af83)
+
+### 
+
 ## Contributing
 Contributions are welcome! If you have suggestions or would like to enhance this project, please fork the repository and submit a pull request.
 

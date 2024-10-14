@@ -30,7 +30,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Ginga1402/Code_with_AI
+   git clone https://github.com/Ginga1402/Code_Design_with_GenAI
    
    ```
 

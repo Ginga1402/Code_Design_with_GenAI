@@ -75,8 +75,13 @@ This will launch the application in your browser at `http://localhost:8501`.
 ## CodeBuddy User Interface Demo
 A glimpse into CodeBuddy’s intuitive interface, showcasing the seamless conversion of designs into functional code.
 
-
+#### 1. Home Screen 
 ![codebuddy3](https://github.com/user-attachments/assets/c93e70a0-a917-4cd2-a138-e43c1931af83)
+#### 2. Code Generation[Mainly Python/SQL] 
+![codebuddy4](https://github.com/user-attachments/assets/77a76df7-73d2-4f37-9309-62a775eae4e3)
+#### 3. UI Design[HTML]
+![codebuddy2](https://github.com/user-attachments/assets/0a928171-716a-44e9-9277-d3007fd74026)
+
 
 ### 
 

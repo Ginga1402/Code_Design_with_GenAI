@@ -77,8 +77,11 @@ A glimpse into CodeBuddy’s intuitive interface, showcasing the seamless conver
 
 #### 1. Home Screen 
 ![codebuddy3](https://github.com/user-attachments/assets/c93e70a0-a917-4cd2-a138-e43c1931af83)
-#### 2. Code Generation[Mainly Python/SQL] 
+#### 2. Code Generation
+##### 1.Python 
 ![codebuddy4](https://github.com/user-attachments/assets/77a76df7-73d2-4f37-9309-62a775eae4e3)
+##### 2. SQL
+![image](https://github.com/user-attachments/assets/aa03e8af-fec7-4bf7-8456-976ae905a967)
 #### 3. UI Design[HTML]
 ![codebuddy2](https://github.com/user-attachments/assets/0a928171-716a-44e9-9277-d3007fd74026)
 

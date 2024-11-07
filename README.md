@@ -81,7 +81,7 @@ A glimpse into CodeBuddy’s intuitive interface, showcasing the seamless conver
 ##### 1.Python 
 ![codebuddy4](https://github.com/user-attachments/assets/77a76df7-73d2-4f37-9309-62a775eae4e3)
 ##### 2. SQL
-![image](https://github.com/user-attachments/assets/aa03e8af-fec7-4bf7-8456-976ae905a967)
+![383856939-aa03e8af-fec7-4bf7-8456-976ae905a967](https://github.com/user-attachments/assets/aa024867-fb52-44ff-8cfe-e9fa418c0597)
 #### 3. UI Design[HTML]
 ![codebuddy2](https://github.com/user-attachments/assets/0a928171-716a-44e9-9277-d3007fd74026)
 
